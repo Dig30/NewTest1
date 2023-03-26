@@ -1,0 +1,15 @@
+C:\Users\rya\Desktop\Test\Exersise05\obj\Debug\net6.0\Exersise05.csproj.AssemblyReference.cache
+C:\Users\rya\Desktop\Test\Exersise05\obj\Debug\net6.0\Exersise05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rya\Desktop\Test\Exersise05\obj\Debug\net6.0\Exersise05.AssemblyInfoInputs.cache
+C:\Users\rya\Desktop\Test\Exersise05\obj\Debug\net6.0\Exersise05.AssemblyInfo.cs
+C:\Users\rya\Desktop\Test\Exersise05\obj\Debug\net6.0\Exersise05.csproj.CoreCompileInputs.cache
+C:\Users\rya\Desktop\Test\Exersise05\bin\Debug\net6.0\Exersise05.exe
+C:\Users\rya\Desktop\Test\Exersise05\bin\Debug\net6.0\Exersise05.deps.json
+C:\Users\rya\Desktop\Test\Exersise05\bin\Debug\net6.0\Exersise05.runtimeconfig.json
+C:\Users\rya\Desktop\Test\Exersise05\bin\Debug\net6.0\Exersise05.dll
+C:\Users\rya\Desktop\Test\Exersise05\bin\Debug\net6.0\Exersise05.pdb
+C:\Users\rya\Desktop\Test\Exersise05\obj\Debug\net6.0\Exersise05.dll
+C:\Users\rya\Desktop\Test\Exersise05\obj\Debug\net6.0\refint\Exersise05.dll
+C:\Users\rya\Desktop\Test\Exersise05\obj\Debug\net6.0\Exersise05.pdb
+C:\Users\rya\Desktop\Test\Exersise05\obj\Debug\net6.0\Exersise05.genruntimeconfig.cache
+C:\Users\rya\Desktop\Test\Exersise05\obj\Debug\net6.0\ref\Exersise05.dll
