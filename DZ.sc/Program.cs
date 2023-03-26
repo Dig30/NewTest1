@@ -1,6 +1,6 @@
 ﻿// Делаю 1 пример //
 Console.Write("Введите число: ");
-string imput = Console.ReadLine();
+string input = Console.ReadLine();
 
 int namber = int.Parse(imput);
 int rezult = namber * namber; 
