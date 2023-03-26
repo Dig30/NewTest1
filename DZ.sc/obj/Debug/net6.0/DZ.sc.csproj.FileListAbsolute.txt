@@ -1,0 +1,15 @@
+C:\Users\rya\Desktop\Test\DZ.sc\bin\Debug\net6.0\DZ.sc.exe
+C:\Users\rya\Desktop\Test\DZ.sc\bin\Debug\net6.0\DZ.sc.deps.json
+C:\Users\rya\Desktop\Test\DZ.sc\bin\Debug\net6.0\DZ.sc.runtimeconfig.json
+C:\Users\rya\Desktop\Test\DZ.sc\bin\Debug\net6.0\DZ.sc.dll
+C:\Users\rya\Desktop\Test\DZ.sc\bin\Debug\net6.0\DZ.sc.pdb
+C:\Users\rya\Desktop\Test\DZ.sc\obj\Debug\net6.0\DZ.sc.csproj.AssemblyReference.cache
+C:\Users\rya\Desktop\Test\DZ.sc\obj\Debug\net6.0\DZ.sc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rya\Desktop\Test\DZ.sc\obj\Debug\net6.0\DZ.sc.AssemblyInfoInputs.cache
+C:\Users\rya\Desktop\Test\DZ.sc\obj\Debug\net6.0\DZ.sc.AssemblyInfo.cs
+C:\Users\rya\Desktop\Test\DZ.sc\obj\Debug\net6.0\DZ.sc.csproj.CoreCompileInputs.cache
+C:\Users\rya\Desktop\Test\DZ.sc\obj\Debug\net6.0\DZ.sc.dll
+C:\Users\rya\Desktop\Test\DZ.sc\obj\Debug\net6.0\refint\DZ.sc.dll
+C:\Users\rya\Desktop\Test\DZ.sc\obj\Debug\net6.0\DZ.sc.pdb
+C:\Users\rya\Desktop\Test\DZ.sc\obj\Debug\net6.0\DZ.sc.genruntimeconfig.cache
+C:\Users\rya\Desktop\Test\DZ.sc\obj\Debug\net6.0\ref\DZ.sc.dll
