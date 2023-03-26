@@ -19,4 +19,3 @@ if (namber == 1) {
 } else {
     Console.WriteLine("Нет такого дня!");
 }
-

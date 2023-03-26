@@ -8,8 +8,3 @@ int rezult = namber * namber;
 Console.Write("ответ: ");
 
 Console.WriteLine(rezult);
-
-
-
-
-
