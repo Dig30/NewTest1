@@ -3,10 +3,13 @@ Console.Write("Введите число: ");
 string imput = Console.ReadLine();
 
 int namber = int.Parse(imput);
+int rezult = namber * namber; 
 
-namber *= namber;
+Console.Write("ответ: ");
 
-Console.WriteLine(namber);
+Console.WriteLine(rezult);
+
+
 
 
 
